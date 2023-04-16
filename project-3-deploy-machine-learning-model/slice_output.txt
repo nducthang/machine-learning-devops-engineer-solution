@@ -1,0 +1,16 @@
+education = Bachelors: {'Precision': 0.9493131217432497, 'Recall': 0.9426152398871119, 'Fbeta': 0.9459523247580836}
+education = HS-grad: {'Precision': 0.9539078156312625, 'Recall': 0.8831168831168831, 'Fbeta': 0.9171483622350673}
+education = 11th: {'Precision': 0.9811320754716981, 'Recall': 0.8813559322033898, 'Fbeta': 0.9285714285714285}
+education = Masters: {'Precision': 0.9664502164502164, 'Recall': 0.9727668845315904, 'Fbeta': 0.9695982627578719}
+education = 9th: {'Precision': 1.0, 'Recall': 0.84, 'Fbeta': 0.9130434782608696}
+education = Some-college: {'Precision': 0.9342004590665647, 'Recall': 0.9139221556886228, 'Fbeta': 0.923950056753689}
+education = Assoc-acdm: {'Precision': 0.937007874015748, 'Recall': 0.9296875, 'Fbeta': 0.9333333333333332}
+education = 7th-8th: {'Precision': 0.96875, 'Recall': 0.8857142857142857, 'Fbeta': 0.9253731343283582}
+education = Doctorate: {'Precision': 0.9488054607508533, 'Recall': 0.9928571428571429, 'Fbeta': 0.9703315881326353}
+education = Assoc-voc: {'Precision': 0.9279279279279279, 'Recall': 0.8982558139534884, 'Fbeta': 0.9128508124076811}
+education = Prof-school: {'Precision': 0.9828431372549019, 'Recall': 0.9876847290640394, 'Fbeta': 0.9852579852579852}
+education = 5th-6th: {'Precision': 1.0, 'Recall': 0.8333333333333334, 'Fbeta': 0.9090909090909091}
+education = 10th: {'Precision': 0.9433962264150944, 'Recall': 0.847457627118644, 'Fbeta': 0.8928571428571428}
+education = Preschool: {'Precision': 1.0, 'Recall': 1.0, 'Fbeta': 1.0}
+education = 12th: {'Precision': 1.0, 'Recall': 0.9655172413793104, 'Fbeta': 0.9824561403508771}
+education = 1st-4th: {'Precision': 1.0, 'Recall': 0.8333333333333334, 'Fbeta': 0.9090909090909091}

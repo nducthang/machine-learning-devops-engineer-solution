@@ -1,0 +1,7 @@
+name: components
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mlflow=1.14.1
+  - numpy==1.19

@@ -1,0 +1,14 @@
+name: uda_project2_dev
+dependencies:
+  - ipython=7.21.0
+  - notebook=6.2.0
+  - cookiecutter=1.7.2
+  - matplotlib=3.3.4
+  - pandas=1.2.3
+  - pip=20.3.3
+  - pip:
+      - numpy==1.19.0
+      - wandb==0.10.31
+      - hydra-core==1.0.6
+      - jupyterlab==3.0.10
+      - mlflow==1.14.1

@@ -1,0 +1,6 @@
+root - INFO - Import data
+root - INFO - Perform EDA
+root - INFO - Encode categorical columns
+root - INFO - Perform feature engineering
+root - INFO - Train models ang get results
+root - INFO - Done training
